@@ -1,1 +1,1 @@
-Helper Scripts to release Kotlin artifacts to jcenter.
+Helper Scripts to release Kotlin and Java artifacts to jcenter.
